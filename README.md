@@ -3,7 +3,7 @@
 - 👯 I’m looking to collaborate on: AI-based productivity tools, lead generation bots, and smart automation projects.
 - 🤔 I’m looking for help with: Scaling AI agents for real-world applications and handling multilingual responses.
 - 💬 Ask me about: AI tools, LangChain, automation ideas, or building bots for business growth.
-- 📫 How to reach me: Email me at yourname@email.com or DM on LinkedIn/Facebook.
+- 📫 How to reach me: Email me at mahmudulhasan12@email.com or DM on LinkedIn/Facebook.
 - ⚡ Fun fact: I once built an automation bot that replied faster than a human support agent.
 
 
